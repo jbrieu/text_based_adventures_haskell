@@ -10,7 +10,7 @@ I shamelessly copied David Matuszek's code at http://www.cis.upenn.edu/~matuszek
 It was the simplest starting point of all.
 
 # How to launch a story (game) ?
-runhaskell story1.hs
+```runhaskell story1.hs```
 
 # Story 1 (in French)
 A young girl living in the forest with her family. She wakes us some day to find out that her family is gone: father, mother and little brother.
